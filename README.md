@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luch28&color=2A821E&style=for-the-badge&label=Profile+Views"/>
-</p>
-
 # Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Luch28 ) 
 
@@ -29,12 +25,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Luch28 &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Luch28 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Luch28 &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Luch28&color=2A821E&style=for-the-badge&label=Profile+Views"/>
+</p>
