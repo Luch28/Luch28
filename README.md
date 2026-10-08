@@ -1,6 +1,7 @@
 # 💫 About Me:
 Пишу небольшие сайты и плагины для Майнкрафта 
-[![](https://komarev.com/ghpvc/?username=Luch28 &icon=0&color=3)](https://visitcount.itsvg.in)
+
+
 ![](https://komarev.com/ghpvc/?Luch28=your-github-username&color=green)
 
 ## 🌐 Socials:
