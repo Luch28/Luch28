@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luch28&color=2a821e&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Luch28&color=2A821E&style=for-the-badge&label=Profile+Views"/>
 </p>
 
 # Socials:
