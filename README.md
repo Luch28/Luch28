@@ -1,3 +1,5 @@
+I create websites in the WebCore, Frutiger Aero, and Y2K styles
+
 # Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Luch28 ) 
 
