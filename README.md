@@ -1,4 +1,4 @@
-I create websites in the WebCore, Frutiger Aero, and Y2K styles
+I create websites in the WebCore, Frutiger Aero, and Y2K styles And sometimes I also write Minecraft plugins, mostly for older versions
 
 # Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Luch28 ) 
